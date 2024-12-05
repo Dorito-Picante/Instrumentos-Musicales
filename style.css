@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://st.depositphotos.com/2676745/4403/v/450/depositphotos_44030585-stock-illustration-60-images-of-musical-instruments.jpg);
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #666;
+}
+
+section {
+    background-color: #333;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+main {
+    padding: 20px;
+}
+
+main {
+    display: block;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+.producto {
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px 0;
+    padding: 15px;
+    text-align: center;
+}
+
+.producto img {
+    max-width: 400px;
+    height: 300px;
+}
+
+button {
+    background-color: #1100ff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #008cff;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+form{
+    background-color: white;
+}
+
+label{
+    color: #000000;
+}
